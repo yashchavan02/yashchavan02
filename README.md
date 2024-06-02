@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**yashchavan02/yashchavan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=yashchavan02.MiniProject-A"/></p>
 
-Here are some ideas to get you started:
+<!-- <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&color=&center=true&vCenter=true&width=500&height=70&duration=4000&lines= ✋Hi, I'm Yash Chavan !;" />
+</h1> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center" style="font-family:Poetsen One"> ✋Hi, I'm Yash Chavan !</h1>
+
+<h2 align="center"> A Passionate Programmer From India !</h2><br/>
+
+<div align="center">
+ B.Tech Student in Computer Science @PCCoE<br>officialyashchavan@gmail.com<br/>
+</div><hr/>
+
+
+<div align="center">
+
+## 🌐 Socials 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027406703908)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yashchavan.02) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashchavan02)
+[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=X&logoColor=white)](https://x.com/yashchavan02)
+[![Spotify](https://img.shields.io/badge/Spotify-%231877F2.svg?logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/6Sc19OoYxhZ3Lym6eWq9NR?si=fdd98cbd6538457d)
+
+</div><hr/>
+
+<h2 align="center">⚙ Languages & Tools</h2><br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,html,css,git" alt="languages and tools image"/>
+</div><hr/>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+![](https://github-profile-trophy.vercel.app/?username=yashchavan02&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+<hr/>
+
+<h2 align="center">📊 GitHub Stats </h2>
+
+<p align="center"><img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=yashchavan02&show_icons=true&theme=dark&hide_border=false" alt="Yash Chavan GitHub Stats"></p><hr/>
+
+<h2 align="center"> 🎗️ GitHub Streak </h2>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashchavan02&theme=dark&hide_border=false" alt="Yash Chavan Streak Stats" /></p>
+
