@@ -7,7 +7,7 @@
 
 <h1 align="center" style="font-family:Poetsen One"> ✋Hi, I'm Yash Chavan !</h1>
 
-<h2 align="center"> A Passionate Programmer From India !</h2><br/>
+<h2 align="center"> A Passionate Programmer From India </h2><br/>
 
 <div align="center">
  B.Tech Student in Computer Science @PCCoE<br>officialyashchavan@gmail.com<br/>
