@@ -26,7 +26,7 @@
 
 </div><hr/>
 
-<h2 align="center">⚙ Languages & Tools</h2><br/>
+<h2 align="center">💻 Languages & Tools</h2><br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,html,css,git" alt="languages and tools image"/>
 </div><hr/>
