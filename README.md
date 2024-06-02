@@ -20,8 +20,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027406703908)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yashchavan.02) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashchavan02)
-[![YouTube](https://img.shields.io/badge/YouTube-%230077B5.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@YASHCHAVAN02)
 [![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=X&logoColor=white)](https://x.com/yashchavan02)
+[![YouTube](https://img.shields.io/badge/YouTube-%230077B5.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@YASHCHAVAN02)
 [![Spotify](https://img.shields.io/badge/Spotify-%231877F2.svg?logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/6Sc19OoYxhZ3Lym6eWq9NR?si=fdd98cbd6538457d)
 
 </div><hr/>
