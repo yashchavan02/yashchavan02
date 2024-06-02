@@ -37,7 +37,6 @@
 <hr/>
 
 <h2 align="center">📊 GitHub Stats </h2>
-
 <p align="center"><img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=yashchavan02&show_icons=true&theme=dark&hide_border=false" alt="Yash Chavan GitHub Stats"></p><hr/>
 
 <h2 align="center"> 🎗️ GitHub Streak </h2>
