@@ -10,7 +10,7 @@
 <h3 align="center"> A Passionate Programmer From India </h3><br/>
 
 <div align="center">
- B.Tech Student in Computer Science @PCCoE<br>officialyashchavan@gmail.com<br/>
+ B.Tech Student In Computer Science @PCCoE<br>officialyashchavan@gmail.com<br/>
 </div><hr/>
 
 
