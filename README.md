@@ -8,7 +8,8 @@
 <h3 align="center"> A Passionate Programmer From Kolhapur </h3><br/>
 
 <div align="center">
- B.Tech Student In Computer Science @PCCoE<br>officialyashchavan@gmail.com<br/>
+  B.Tech Student In Computer Science @PCCoE <br>
+  <a style="text-decoration:none" href="mailto:officialyashchavan@gmail.com">officialyashchavan@gmail.com</a> 
 </div><hr/>
 
 
