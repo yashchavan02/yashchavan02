@@ -1,5 +1,5 @@
 
-<p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=yashchavan02.MiniProject-A"  alt="Welcome" /></p>
+<p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=yashchavan02.yashchavan.02"  alt="Welcome" /></p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=5000&lines=✋+Hi+,+I'm+Yash+Chavan+!;" />
