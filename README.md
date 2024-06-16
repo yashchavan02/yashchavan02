@@ -40,5 +40,4 @@
 <p align="center"><img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=yashchavan02&show_icons=true&theme=dark&hide_border=false" alt="Yash Chavan GitHub Stats"></p><hr/>
 
 <h2 align="center"> 🎗️ GitHub Streak </h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashchavan02&theme=dark&hide_border=false" alt="Yash Chavan Streak Stats" /></p>
-
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=yashchavan02&theme=chartreuse-dark"></p>
