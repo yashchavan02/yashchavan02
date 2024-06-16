@@ -27,7 +27,7 @@
 
 <h2 align="center">💻 Languages & Tools</h2><br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,html,css,git" alt="languages and tools image"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,html,css,mysql,git" alt="languages and tools image"/>
 </div><hr/>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
