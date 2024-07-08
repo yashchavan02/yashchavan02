@@ -61,7 +61,7 @@
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=yashchavan02&theme=chartreuse-dark"></p>
 
-</div><hr/><br/>
+</div><hr/>
 
 
 <div align="center"> 
