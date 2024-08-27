@@ -9,8 +9,6 @@
 <h3><b>✦ 𝐌𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬 <b/><h3>  
 <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,html,css,mysql,git" alt="languages and tools image"/><br/><br/>
 
-<a href="https://codolio.com/profile/yashchavan02"><img src="https://github-readme-activity-graph.vercel.app/graph?username=yashchavan02&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="500" alt="activity graph"></a>
-
 <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yashchavan02&count_private=true&theme=react&border_radius=5" alt="YC Streak"/><br/>
 
 
