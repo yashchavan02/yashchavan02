@@ -1,7 +1,7 @@
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=yashchavan02.yashchavan02"  alt="Welcome" />
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=50&duration=7000&lines=Hi+,+I'm+Yash+Chavan+!;" />
 
-<h4><i>B.Tech Student In Computer Engineering </i><a style="text-decoration:none" href="http://www.pccoepune.com/">@𝐏𝐂𝐂𝐎𝐄</a><br/><i>A Passionate Programmer From </i><a style="text-decoration:none" href="https://maps.app.goo.gl/SmjLgtf4D1ff3X546">𝐊𝐨𝐥𝐡𝐚𝐩𝐮𝐫</a></h4>
+<h4>B.Tech Student In Computer Engineering <a style="text-decoration:none" href="http://www.pccoepune.com/">@𝐏𝐂𝐂𝐎𝐄</a><br/>A Passionate Programmer From <a style="text-decoration:none" href="https://maps.app.goo.gl/SmjLgtf4D1ff3X546">𝐊𝐨𝐥𝐡𝐚𝐩𝐮𝐫</a></h4>
    
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashchavan02)](https://www.linkedin.com/in/yashchavan02)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=officialyashchavan@gmail.com)](mailto:officialyashchavan@gmail.com)
