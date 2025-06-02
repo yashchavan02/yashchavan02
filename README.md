@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=officialyashchavan@gmail.com)](mailto:officialyashchavan@gmail.com)
 
 <h3><b>✦ 𝐌𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬 <b/><h3>  
-<img src="https://skillicons.dev/icons?i=c,cpp,python,rust,html,css,mysql,git" alt="languages and tools image"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,rust,html,css,django,mysql,mongodb,git" alt="languages and tools image"/><br/><br/>
 
 <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yashchavan02&count_private=true&theme=react&border_radius=5" alt="YC Streak"/><br/>
 
